@@ -1,0 +1,77 @@
+
+ body
+ {
+    background-color: pink;
+ }
+  #Box
+  {
+    background-color: blue;
+    color: white;
+
+  }
+  .Heading
+  {
+    color: red;
+  }
+  button{
+    background-color: blue;
+  }
+  #CSS
+  {
+    text-transform: capitalize;
+    text-align: center;
+  }
+  p
+  {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  #outer{
+    font-size: 25px;
+  }
+  #inner{
+    font-size: 10px;
+  }
+  div{
+    color: white;
+  }
+  #navbar
+  {
+    height: 60px;
+    background-color: black;
+    color: white;
+  }
+  button{
+    background-color: yellow;
+  }
+  a{
+    color: white;
+    margin-right: 200px;
+  }
+  #logo{
+    color: yellow;
+    font-size: 25px;
+  }
+  #box1
+  {
+    height: 100px;
+    width: 1500px;
+    background-color: rgba(0,0,255,0.5)
+  }
+  #box2
+  {
+    height: 100px;
+    width: 1500px;
+    background-color:rgba(0,255,0,0.5)
+  }
+  #box3
+  {
+    height: 100px;
+    width: 1500px;
+    background-color: rgba(255,0,0,0.5);
+  }
+  #footer{
+    background-color: black;
+    text-decoration: double;
+    text-align: center;
+    color: azure;
+  }
