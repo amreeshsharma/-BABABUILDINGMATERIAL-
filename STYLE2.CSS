@@ -10,6 +10,8 @@ header {
     color: white;
     padding: 20px;
     text-align: center;
+    position: fixed;
+    width: 100%;
 }
 
 
@@ -17,17 +19,21 @@ nav {
     background-color: #333;
     padding: 10px;
     text-align: center;
+    position: fixed;
+    width: 100%;
+    top: 140px;
 }
 
 nav a {
     color: white;
     text-decoration: none;
-    margin: 0 15px;
+    margin: 12px;
     font-weight: bold;
 }
 
 nav a:hover {
-    color: #ffd700;
+    color: yellow;
+    
 }
 
 .container {
@@ -40,6 +46,9 @@ nav a:hover {
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 5px;
+}
+#about{
+    margin-top: 180px;
 }
 
 h2 {
@@ -80,4 +89,6 @@ footer {
     text-align: center;
     padding: 15px;
     font-size: 14px;
+    border-radius: 10px;
+    margin: 0px 20px 0px 20px;
 }
